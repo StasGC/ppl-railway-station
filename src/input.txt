@@ -1,0 +1,6 @@
+Passing train;0001;Moscow;Saint-Petersburg;20;head;11:00:00 2019.11.28;12:30:00 2019.11.28
+Hitching wagons;0001;Moscow;Saint-Petersburg;20;head;5;11:40:00 2019.11.28
+Passing train;0002;Kazan;Sochi;15;tail;12:00:00 2019.11.28;12:35:00 2019.11.28
+Passing train;0003;Kursk;Vladivostok;30;head;12:15:00 2019.11.28;13:30:00 2019.11.28
+Uncoupling wagons;0002;Kazan;Sochi;15;tail;6;12:20:00 2019.11.28
+Formed Train;0004;Astrakhan;Novosibirsk;15;head;12:40:00 2019.11.28;13:00:00 2019.11.28
